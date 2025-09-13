@@ -15,9 +15,11 @@ Here's what you'll find in this repository:
 ```
 .
 ├── systemPrompt.txt
+├── README.md
 └── codeparser/
     ├── content.txt
     └── genFiles.bat
+    └── main.py
 ```
 
   * `systemPrompt.txt`: The "brain" of the operation. You'll copy this into your AI's custom instructions.
