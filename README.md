@@ -43,6 +43,7 @@ Follow these simple steps to generate your first application.
   - Start a new chat with the Gem or Project you just configured.
   - In natural language, describe the application you want to build. Be as detailed as possible\! The more detail you provide, the better the result.
 
+
 **Example Prompt:**
 
 > "I want to create a simple to-do list web application using React. It should have an input field to add new tasks, a button to add them, and a list to display the tasks. Each task in the list should have a checkbox to mark it as complete and a delete button to remove it. The app should have a clean and modern user interface."
